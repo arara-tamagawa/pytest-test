@@ -7,4 +7,4 @@ def test_add_01():
 
 def test_add_02():
     car = Car(amount=30_000_000)
-    assert car.car_display_price() == '30,000,000円'
+    assert car.car_display_price() == '20,000,000円'
