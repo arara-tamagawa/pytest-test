@@ -1,4 +1,4 @@
-from main.main import Car
+from main import Car
 
 def test_add_01():
     car = Car()
